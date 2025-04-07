@@ -1,1 +1,1 @@
-·automation-bootcamp
+Automation-Bootcamp-QADEMY
